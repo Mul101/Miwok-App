@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ListView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    android:id="@+id/list"
+    android:orientation="vertical"
+    android:drawSelectorOnTop="true"/>
+
+<!-- menambahkan atribut android: drawSelectorOnTop = "true" pada elemen XML ListView.
+Dengan perubahan satu baris ini, status yang ditekan akan ditampilkan pada setiap item daftar.-->
+
+<!--    tools:context="com.codemul.miwok.NumbersActivity2"
+        digunakan untuk mengatakan di dokumen mana tata letak harus digunakan
+        bisa dihapus jika tata letak ini akan digunakan dengan aktivitas yg berbeda2-->
+<!--Jika gridview menggunakan numscoloms-->
+
+<!--<LinearLayout INI PERCOBAAN SEBELUMNYA-->
+<!--    android:orientation="vertical"-->
+<!--    xmlns:android="http://schemas.android.com/apk/res/android"-->
+<!--    android:layout_height="wrap_content"-->
+<!--    android:layout_width="wrap_content"-->
+<!--    android:id="@+id/rootView"-->
+<!--    xmlns:app="http://schemas.android.com/apk/res-auto"-->
+<!--    xmlns:tools="http://schemas.android.com/tools"-->
+<!--    tools:context=".NumbersActivity2">-->
+
+<!--</LinearLayout>-->
